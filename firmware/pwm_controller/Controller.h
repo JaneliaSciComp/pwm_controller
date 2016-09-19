@@ -19,7 +19,7 @@ public:
   Controller();
   void setup();
   void update();
-  ModularDevice::ModularServer& getModularServer();
+  ModularDevice::ModularServer & getModularServer();
 
   void setServoPosition(size_t channel, size_t servo_position);
   // void saveState(const size_t state);

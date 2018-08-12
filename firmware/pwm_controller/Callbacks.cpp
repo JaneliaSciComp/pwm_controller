@@ -3,7 +3,7 @@
 //
 //
 // Authors:
-// Peter Polidoro polidorop@janelia.hhmi.org
+// Peter Polidoro peterpolidoro@gmail.com
 // ----------------------------------------------------------------------------
 #include "Callbacks.h"
 
@@ -473,7 +473,7 @@ void setServoPositionCallback()
 //   pulse_info.channel_index = index;
 //   return pulse_info;
 // }
-// 
+//
 // EventController Callbacks
 // void removeIndexedChannelCallback(int index)
 // {
